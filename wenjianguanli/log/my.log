@@ -1,0 +1,47 @@
+2021-06-10 16:36:38.013 DEBUG 75364 --- [background-preinit] .h.v.m.ResourceBundleMessageInterpolator : Loaded expression factory via original TCCL
+2021-06-10 16:36:38.243  INFO 75364 --- [main] com.example.Application                  : Starting Application on DESKTOP-M0NK1FB with PID 75364 (started by 倪升武 in C:\Users\倪升武\Desktop\B站视频\01.在线文件管理系统-003-009\wenjianguanli)
+2021-06-10 16:36:38.249  INFO 75364 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-10 16:36:47.486  WARN 75364 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2021-06-10 16:36:53.468  INFO 75364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2021-06-10 16:36:53.636  INFO 75364 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-10 16:36:53.642  INFO 75364 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-06-10 16:36:53.693  INFO 75364 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Java\jdk1.8.0_211\jre\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\倪升武\AppData\Local\Microsoft\WindowsApps;"C:\Program Files (x86)\mysql-5.7.30\bin;";C:\Users\倪升武\AppData\Roaming\npm;;.]
+2021-06-10 16:36:55.750  INFO 75364 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-10 16:36:55.752  INFO 75364 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 17219 ms
+2021-06-10 16:36:55.929  INFO 75364 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2021-06-10 16:36:56.031  INFO 75364 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-06-10 16:36:56.032  INFO 75364 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-06-10 16:36:56.033  INFO 75364 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2021-06-10 16:36:56.034  INFO 75364 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2021-06-10 16:37:00.918  INFO 75364 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-10 16:37:02.509  INFO 75364 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2021-06-10 16:37:02.520  INFO 75364 --- [main] com.example.Application                  : Started Application in 25.128 seconds (JVM running for 26.858)
+2021-06-10 16:37:09.599  INFO 75364 --- [http-nio-8888-exec-3] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-10 16:37:09.599  INFO 75364 --- [http-nio-8888-exec-3] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-10 16:37:09.614  INFO 75364 --- [http-nio-8888-exec-3] o.s.web.servlet.DispatcherServlet        : Completed initialization in 13 ms
+2021-06-10 16:37:25.584  INFO 75364 --- [Thread-31] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-10 16:46:29.793  INFO 65960 --- [main] com.example.Application                  : Starting Application on DESKTOP-M0NK1FB with PID 65960 (started by 倪升武 in C:\Users\倪升武\Desktop\B站视频\01.在线文件管理系统-003-009\wenjianguanli)
+2021-06-10 16:46:29.805  INFO 65960 --- [main] com.example.Application                  : No active profile set, falling back to default profiles: default
+2021-06-10 16:46:31.132  WARN 65960 --- [main] o.m.s.mapper.ClassPathMapperScanner      : No MyBatis mapper was found in '[com.example]' package. Please check your configuration.
+2021-06-10 16:46:33.955  INFO 65960 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8888 (http)
+2021-06-10 16:46:33.982  INFO 65960 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-06-10 16:46:33.982  INFO 65960 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.12
+2021-06-10 16:46:33.992  INFO 65960 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files (x86)\Java\jdk1.8.0_211\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\NetSarang\Xshell 6\;C:\Program Files (x86)\NetSarang\Xftp 6\;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\iCLS\;C:\Program Files\Intel\Intel(R) Management Engine Components\iCLS\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Java\jdk1.8.0_211\bin;C:\Program Files (x86)\Java\jdk1.8.0_211\jre\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Users\倪升武\AppData\Local\Microsoft\WindowsApps;"C:\Program Files (x86)\mysql-5.7.30\bin;";C:\Users\倪升武\AppData\Roaming\npm;;.]
+2021-06-10 16:46:34.268  INFO 65960 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-06-10 16:46:34.269  INFO 65960 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 4355 ms
+2021-06-10 16:46:34.312  INFO 65960 --- [main] o.s.b.w.servlet.ServletRegistrationBean  : Servlet dispatcherServlet mapped to [/]
+2021-06-10 16:46:34.319  INFO 65960 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'characterEncodingFilter' to: [/*]
+2021-06-10 16:46:34.319  INFO 65960 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'hiddenHttpMethodFilter' to: [/*]
+2021-06-10 16:46:34.320  INFO 65960 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'formContentFilter' to: [/*]
+2021-06-10 16:46:34.320  INFO 65960 --- [main] o.s.b.w.servlet.FilterRegistrationBean   : Mapping filter: 'requestContextFilter' to: [/*]
+2021-06-10 16:46:35.549  INFO 65960 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-06-10 16:46:36.120  INFO 65960 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8888 (http) with context path ''
+2021-06-10 16:46:36.127  INFO 65960 --- [main] com.example.Application                  : Started Application in 7.486 seconds (JVM running for 9.285)
+2021-06-10 16:47:40.489  INFO 65960 --- [http-nio-8888-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2021-06-10 16:47:40.490  INFO 65960 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2021-06-10 16:47:40.507  INFO 65960 --- [http-nio-8888-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 17 ms
+2021-06-10 16:48:14.186  INFO 65960 --- [http-nio-8888-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2021-06-10 16:48:14.484  INFO 65960 --- [http-nio-8888-exec-9] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2021-06-10 19:43:04.166  INFO 65960 --- [Thread-16] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2021-06-10 19:43:04.196  INFO 65960 --- [Thread-16] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2021-06-10 19:43:04.232  INFO 65960 --- [Thread-16] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
